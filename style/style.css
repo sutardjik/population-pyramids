@@ -1,31 +1,28 @@
 @import url('https://use.typekit.net/tsb3vax.css');
 
-h1 {
-    font-family: ivypresto-display, serif;
-    font-weight: 300;
+h1, h4, h5 {
+  font-family: ivypresto-display, serif;
+  font-weight: 300;
 }
 
-h2,h3,h4,h5,h6,p {
+p {
   font-family: adelle-sans, sans-serif;
   font-weight: 400;
-}
-
-a {
-  color: #dbc7bd !important;
-}
-
-hr{
-  margin-top: 5px;
-  margin-bottom: 3%;
-}
-
-a:hover{
-  color: #f4eeeb !important;
 }
 
 body {
   font-family: acumin-pro-wide, sans-serif;
   font-weight: 600;
+}
+
+a {
+  color: #B8B8B8 !important;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 5px;
+  margin-bottom: 3%;
 }
 
 #MainMenu {visibility: hidden;}
