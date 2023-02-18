@@ -1,0 +1,5 @@
+plotly==5.13.0
+pandas==1.5.3
+streamlit-extras==0.2.5
+streamlit==1.18.1
+openpyxl
