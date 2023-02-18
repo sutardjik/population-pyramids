@@ -111,8 +111,8 @@ fig.update_layout(
         b=0,
         t=0,
     ),
-    paper_bgcolor="#262730",
-    plot_bgcolor="#262730",
+    paper_bgcolor="#363845",
+    plot_bgcolor="#363845",
     yaxis=dict(
         title="Age Group (Age)",
         title_font_size=15,
@@ -144,8 +144,8 @@ fig.update_layout(
     legend=dict(
         x=0,
         y=1,
-        bgcolor="#262730",
-        bordercolor="#262730",
+        bgcolor="#363845",
+        bordercolor="#363845",
     ),
     barmode="relative",
     bargap=0,
