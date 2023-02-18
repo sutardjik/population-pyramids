@@ -114,7 +114,7 @@ with col3:
 with col4:
     next_button = st.button("NEXT ⟶")
     if next_button:
-        switch_page("REFERENCES")
+        switch_page("HOME")
 with col5:
     pass
 with col6:

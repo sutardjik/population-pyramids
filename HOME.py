@@ -241,8 +241,8 @@ st.markdown(
 )
 
 st.sidebar.write(
-    f"""<h1>Preface</h1><p>The Population Pyramid Visualizer presents the population trends of six countries—the USA, Brazil, Germany, Kenya, India, and Japan—with population pyramids illustrated across 70 years. The annual population growth of the six countries from the same year interval is featured as line graphs. The population pyramids and population growth data are shown as interactive data frames that can be downloaded as Excel spreadsheets and queried according to any listed column. The six countries’ collective annual population growth is expressed as a multiple-line graph with its data displayed as an interactive data frame, all examined in the 
-    <a href="/COUNTRY_COMPARISON" target="_self">Country Comparison</a> section. Sources used to analyze the countries’ populations are cited in the <a href="/REFERENCES" target="_self">References</a> page.</p>
+    f"""<h1>Preface</h1><p>The Population Pyramid Visualizer presents the population trends of six countries—the USA, Brazil, Germany, Kenya, India, and Japan—with population pyramids illustrated across 70 years. The annual population growth of the six countries from the same year interval is featured as line graphs. The population pyramids and population growth data are shown as interactive data frames that can be downloaded as Excel spreadsheets and queried by column name. The six countries’ collective annual population growth is expressed as a multiple-line graph with its data displayed as an interactive data frame, all examined in the 
+    <a href="/COUNTRY_COMPARISON" target="_self">Country Comparison</a> section.</p>
     """,
     unsafe_allow_html=True,
 )
