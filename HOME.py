@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from streamlit_extras.add_vertical_space import add_vertical_space
-import webbrowser
 import pydeck as pdk
 from streamlit_folium import st_folium
 import folium
@@ -208,16 +207,10 @@ with col2:
 
 st.write("---")
 
-col1, col2, col3 = st.columns(3)
-with col1:
-    pass
-with col2:
-    next_button = st.button("VIEW GITHUB REPO ↗")
-    url = "https://github.com/sutardjik/population-pyramids"
-    if next_button:
-        webbrowser.open_new_tab(url)
-with col3:
-    pass
+st.markdown(
+    f"""<p style='text-align:center;'><a href="https://github.com/sutardjik/population-pyramids" target="_blank">VIEW GITHUB REPO ↗</a></p>""",
+    unsafe_allow_html=True,
+)
 
 add_vertical_space(1)
 

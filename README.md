@@ -2,7 +2,7 @@
 
 Explores the population trends of six countries—the USA, Brazil, Germany, Kenya, India, and Japan—from 1950 to 2020 through population pyramids and annual population growth line graphs.
 
-Written in Python using Streamlit.
+Written in Python using Streamlit. Site: https://sutardjik-population-pyramids-home-vqx83m.streamlit.app/.
 
 ## Homepage
 
