@@ -62,7 +62,7 @@ for i in range(0, len(data)):
 st_data = st_folium(m, height=400, width=800)
 
 st.markdown(
-    "<p>The above map pins the capitals of the analyzed six countries: the USA, Brazil, Germany, Kenya, India, and Japan. Hover over the pinned capitals to view their names, and click on them to see their geographic coordinates.</p>",
+    "<p>The above map includes pinned capitals of the USA, Brazil, Germany, Kenya, India, and Japan. Hover over the capitals to view their names, and click on them to see their geographic coordinates.</p>",
     unsafe_allow_html=True,
 )
 
@@ -76,12 +76,12 @@ st.markdown(
 add_vertical_space(1)
 
 st.markdown(
-    "The trend of a nation’s declining mortality and fertility from social and economic progress is known as the DTM – Demographic Transition Model. A five-stage population model describes the demographic transition as high stationary, early expanding, late expanding, low stationary, and declining. Countries are categorized based on their industrial development and GDP – More economically developed countries (MEDCs) and Less economically developed countries (LEDCs). MEDCs are industrialized nations with high GDPs, low poverty, and low population growth rates. Countries identified as LEDCs have low GDPs, high poverty, and high population growth rates.<sup>3</sup>",
+    "The trend of a nation’s declining mortality and fertility from social and economic progress is known as the DTM – Demographic Transition Model. A five-stage population model describes the demographic transition as high stationary, early expanding, late expanding, low stationary, and declining. Countries are categorized based on their industrial development and GDP – preindustrial societies, More economically developed countries (MEDCs), and Less economically developed countries (LEDCs). MEDCs are industrialized nations with high GDPs, low poverty, and low population growth rates. Countries identified as LEDCs have low GDPs, high poverty, and high population growth rates.<sup>3</sup>",
     unsafe_allow_html=True,
 )
 
 st.markdown(
-    "<h4>Stage 1 – High Stationary</h4><p>High stationary is common in preindustrial societies by high birth rates from the lack of birth control, high infant mortality rates, and cultural norms that support large families. Additionally, there are high fatality rates due to illness, starvation, inadequate hygiene, and lack of treatment.<sup>4</sup></p>",
+    "<h4>Stage 1 – High Stationary</h4><p>High stationary is observed in preindustrial societies by high birth rates from the lack of birth control, high infant mortality rates, and cultural norms that support large families. Additionally, there are high fatality rates due to illness, starvation, inadequate hygiene, and lack of treatment.<sup>4</sup></p>",
     unsafe_allow_html=True,
 )
 
@@ -96,12 +96,12 @@ st.markdown(
 )
 
 st.markdown(
-    "<h4>Stage 4 – Low Stationary</h4><p>Low stationary ties to MEDCs, represented by low birth and death rates, and stable population sizes.<sup>4</sup></p>",
+    "<h4>Stage 4 – Low Stationary</h4><p>Low stationary ties to MEDCs by stable population sizes through low birth and death rates.<sup>4</sup></p>",
     unsafe_allow_html=True,
 )
 
 st.markdown(
-    "<h4>Stage 5 – Declining</h4><p>Declining also connects to MEDCs, where the country’s population sees a decrease in the population, where birth rates fall below death rates from low fertility rates.<sup>4</sup></p>",
+    "<h4>Stage 5 – Declining</h4><p>Declining is also seen in MEDCs where the country’s population decreases: birth rates fall below death rates from low fertility.<sup>4</sup></p>",
     unsafe_allow_html=True,
 )
 

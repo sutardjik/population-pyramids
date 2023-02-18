@@ -136,9 +136,9 @@ st.markdown(
 
 st.sidebar.write(
     """<h1>Observations</h1>
-    <p>The multiple-line graph shows diverse population growth patterns within 70 years. India had the six countries’ steepest population growth and remained the most populous of the six. Meanwhile, Kenya is the least populous, with a gradual growth incline.
+    <p>The multiple-line graph shows diverse population growth patterns within 70 years. India had the steepest population growth among the six countries and remained the most populous. Meanwhile, Kenya is the least populous, with a gradual growth incline.
 
-Not all nations see consistent population growth. Japan peaked in 2009 with its population at 128.117M and had a persistent drop afterward.<sup>5</sup> The causes of population reduction differ amongst nations from the effects of political or environmental events.
+Not all nations observe consistent population growth. Japan peaked in 2009 with its population at 128.117M and had a persistent drop afterward.<sup>5</sup> The causes of population reduction differ amongst nations from the effects of political or environmental events.
 
 A noteworthy observation is Germany’s annual population growth, which fluctuates more often compared to other countries. The trend shows an increase from 1950 to 1973, a decline until it reached its valley in 1984, another increase where it peaked in 1999, a decline up to 2006, and one more increase until 2020.<sup>6</sup> Although Germany reached its all-time peak in 2020, the future trend of its population has yet to be forecasted.
 
