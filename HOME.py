@@ -122,8 +122,6 @@ st.markdown(
 st.write("---")
 
 col1, col2 = st.columns(2)
-height = 500
-width = 500
 with col1:
     st.pydeck_chart(
         pdk.Deck(
