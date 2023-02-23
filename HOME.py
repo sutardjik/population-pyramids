@@ -220,14 +220,14 @@ st.markdown(
 add_vertical_space(1)
 
 st.markdown(
-    "<sup>2 </sup>Jitender Saroha, “Types and Significance of Population Pyramids,” <i>World Wide Journal of Multidisciplinary Research and Development</i> 4, no. 4 (2018): 59. http://wwjmrd.com/upload/types-and-significance-of-population-pyramids_1523552342.pdf.",
+    "<sup>2 </sup>Jitender Saroha, “Types and Significance of Population Pyramids,” <em>World Wide Journal of Multidisciplinary Research and Development</em> 4, no. 4 (2018): 59. http://wwjmrd.com/upload/types-and-significance-of-population-pyramids_1523552342.pdf.",
     unsafe_allow_html=True,
 )
 
 add_vertical_space(1)
 
 st.markdown(
-    "<sup>3 </sup>Jill Rutherford and Gillian Williams, “Human Population Dynamics,” in <i>Environmental Systems and Societies: Course Companion</i> (United Kingdom: Oxford University Press, 2015), 355, http://ionma.org/share/ess/essbookcomplete.pdf.",
+    "<sup>3 </sup>Jill Rutherford and Gillian Williams, “Human Population Dynamics,” in <em>Environmental Systems and Societies: Course Companion</em> (United Kingdom: Oxford University Press, 2015), 355, http://ionma.org/share/ess/essbookcomplete.pdf.",
     unsafe_allow_html=True,
 )
 
