@@ -132,7 +132,7 @@ with col1:
         )
     )
     st.markdown(
-        """<h5><i><a href="/USA" target="_self">USA</a></i> // Stage 4 – Low Stationary</h5>""",
+        """<h5><em><a href="/USA" target="_self">USA</a></em> // Stage 4 – Low Stationary</h5>""",
         unsafe_allow_html=True,
     )
 with col2:
@@ -145,7 +145,7 @@ with col2:
         )
     )
     st.markdown(
-        """<h5><i><a href="/BRAZIL" target="_self">Brazil</a></i> // Stage 4 – Low Stationary</h5>""",
+        """<h5><em><a href="/BRAZIL" target="_self">Brazil</a></em> // Stage 4 – Low Stationary</h5>""",
         unsafe_allow_html=True,
     )
 
@@ -159,7 +159,7 @@ with col1:
         )
     )
     st.markdown(
-        """<h5><i><a href="/GERMANY" target="_self">Germany</a></i> // Stage  5 – Declining</h5>""",
+        """<h5><em><a href="/GERMANY" target="_self">Germany</a></em> // Stage  5 – Declining</h5>""",
         unsafe_allow_html=True,
     )
 with col2:
@@ -172,7 +172,7 @@ with col2:
         )
     )
     st.markdown(
-        """<h5><i><a href="/KENYA" target="_self">Kenya</a></i> // Stage 3 – Late Expanding</h5>""",
+        """<h5><em><a href="/KENYA" target="_self">Kenya</a></em> // Stage 3 – Late Expanding</h5>""",
         unsafe_allow_html=True,
     )
 
@@ -186,7 +186,7 @@ with col1:
         )
     )
     st.markdown(
-        """<h5><i><a href="/INDIA" target="_self">India</a></i> // Stage 3 – Late Expanding</h5>""",
+        """<h5><em><a href="/INDIA" target="_self">India</a></em> // Stage 3 – Late Expanding</h5>""",
         unsafe_allow_html=True,
     )
 with col2:
@@ -199,7 +199,7 @@ with col2:
         )
     )
     st.markdown(
-        """<h5><i><a href="/JAPAN" target="_self">Japan</a></i> // Stage 5 – Declining</h5>""",
+        """<h5><em><a href="/JAPAN" target="_self">Japan</a></em> // Stage 5 – Declining</h5>""",
         unsafe_allow_html=True,
     )
 
